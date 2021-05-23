@@ -2,6 +2,7 @@
 
 ## Description
 A boilerplate utilizing Preact with Snowpack, Typescript & Styled-JS
+
 Ready to make progressive web apps! 🎉
 
 ## Used for
