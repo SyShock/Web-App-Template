@@ -1,7 +1,7 @@
 # App Boilerplate
 
 ## Description
-Testing out preact with snowpack, typescript & styled-js
+A boilerplate utilizing Preact with Snowpack, Typescript & Styled-JS
 Ready to make progressive web apps! 🎉
 
 ## Used for
