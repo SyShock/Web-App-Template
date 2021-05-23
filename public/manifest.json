@@ -1,0 +1,9 @@
+
+{
+    "name": "Test",
+    "short_name": "[TEST]",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
