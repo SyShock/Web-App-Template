@@ -1,7 +1,7 @@
 {
-  "name": "snowpack-react-ts",
+  "name": "snowpack-preact-pwa-ts",
   "version": "1.0.0",
-  "description": "Snowpack React TS Project based on the \"@snowpack/app-template-react-typescript\" template using \"create-snowpack-app\"",
+  "description": "Web App template using the relatively modern tech",
   "main": "",
   "scripts": {
     "start": "snowpack dev",
@@ -34,6 +34,8 @@
   "keywords": [
     "snowpack",
     "preact",
-    "typescript"
+    "typescript",
+    "pwa",
+    "state-management"
   ]
 }

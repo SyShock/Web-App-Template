@@ -1,7 +1,7 @@
 # App Boilerplate
 
 ## Description:
-Testing out preact with snowpack and typescript
+Testing out preact with snowpack, typescript & styled-js
 Ready to make progressive web apps! 🎉
 
 ## Used for:
@@ -14,8 +14,8 @@ Future web apps
 
 
 ## Uses:
-google workbox - for managing the tedious service-worker.js configuratioh
-pwa-generator - to generate an icon for the manifest
+- google workbox - for managing the tedious service-worker.js configuration
+- pwa-generator - to generate an icon for the manifest
 
 ## Available Scripts
 
@@ -30,7 +30,7 @@ You will also see any lint errors in the console.
 ### npm run build
 
 Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+And your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" to your `snowpack.config.js` config file.
 
