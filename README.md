@@ -1,19 +1,19 @@
 # App Boilerplate
 
-## Description:
+## Description
 Testing out preact with snowpack, typescript & styled-js
 Ready to make progressive web apps! 🎉
 
-## Used for:
+## Used for
 Future web apps
 
-## To do: 
+## To do
 - web worker integration
 - [x] workbox integration
 - [x] pwa manifest integration
 
 
-## Uses:
+## Uses
 - google workbox - for managing the tedious service-worker.js configuration
 - pwa-generator - to generate an icon for the manifest
 
